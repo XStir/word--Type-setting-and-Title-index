@@ -1,7 +1,7 @@
 # 主要功能
 ## 1.序号编排
 按照论文写作规范，根据【大纲级别】自动写入每个标题的序号，效果如图。
-
+![image](https://github.com/XStir/word--Type-setting-and-Title-index/blob/master/example.png)
 ## 2.排版
 原理为每一段话套用特定的样式，而样式的具体设定可以自行更改，从而达到排版效果。
 
@@ -48,7 +48,7 @@
 
 ## 样式
 样式类别最好为【链接段落和字符】；【段落】也勉强可以用，但是对于段落中有不同样式设定的情况可能会出bug。
-
+![image](https://github.com/XStir/word--Type-setting-and-Title-index/blob/master/%E6%A0%B7%E5%BC%8F%E7%B1%BB%E5%9E%8B.jpg)
 样式库中要有对应的样式（见2.1），并且名字与程序中指定的一致。样式名字不是固定的，它只是一个代号，可以改；记得同时在代码和样式库中修改。
 
 ## 图片
