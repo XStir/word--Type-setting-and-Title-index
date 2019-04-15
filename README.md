@@ -78,5 +78,5 @@ word——排版+标题序号编排
 目前只有一类错误检测：大纲级别错误。例如本段落大纲为5级，而上一级为3级，则报错（缺少中间层级）
 
 # 与其他程序配合使用
-都是些小功能。
-待会发。
+word小功能
+https://github.com/XStir/word--Type-setting-and-Title-index/blob/master/word%E5%B0%8F%E5%8A%9F%E8%83%BD%E5%90%88%E9%9B%86.vb
