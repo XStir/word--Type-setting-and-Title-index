@@ -1,4 +1,5 @@
 # 主要功能
+word——排版+标题序号编排
 ## 1.序号编排
 按照论文写作规范，根据【大纲级别】自动写入每个标题的序号，效果如图。
 ![image](https://github.com/XStir/word--Type-setting-and-Title-index/blob/master/example.png)
